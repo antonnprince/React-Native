@@ -1,7 +1,6 @@
 import {Image, View, Text,TextInput  } from 'react-native'
 import React from 'react'
 import search from "../assets/icons/search.png"
-// import { TextInput } from 'react-native-gesture-handler'
 
 
 interface Props {
